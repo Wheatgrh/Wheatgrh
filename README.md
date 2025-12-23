@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there, I'm Mikhail 👋
 
-<!--
-**Wheatgrh/Wheatgrh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a solo full-stack developer. 
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on various web development projects.
+- 🔍 I’m looking to collaborate on open-source projects and interesting developer communities.
+- 📫 How to reach me: [Email](mailto:m-kokorin@yandex.ru) | [Telegram](@Wheatgrh)
+
+## Languages & Tools
+
+![TS](https://img.shields.io/badge/-TypeScript-gray?style=flat&logo=typescript)
+![Svelte](https://img.shields.io/badge/-Svelte-gray?style=flat&logo=svelte)
+![Node.js](https://img.shields.io/badge/-Node.js-gray?style=flat&logo=node.js)
+![Nest.js](https://img.shields.io/badge/-Nest.js-gray?style=flat&logo=nest.js)
+![Docker](https://img.shields.io/badge/-Docker-gray?style=flat&logo=docker)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-gray?style=flat&logo=postgresql)
+
+
+
